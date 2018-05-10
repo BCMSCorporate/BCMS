@@ -1,0 +1,46 @@
+body{
+	background-repeat:no-repeat;
+	background-size:100% 1500px;
+}
+.simple-form{
+	text-align:center;
+	margin:100px 400px;
+}
+#signup{
+	width:100%;
+	background-color:#051019;
+	opacity:0.8;
+	padding:50px 0px;
+}
+#button{
+	width:250px;
+	padding:10px;
+	border-radius:5px;
+	outline:0px;
+}
+#ph{
+	outline:0px;
+	width:50px;
+	padding:10px;
+	border-radius:5px;
+}
+#phone{
+	width:200px;
+	padding:10px;
+	border-radius:5px;
+	outline:0px;
+}
+#but{
+	color:white;
+	font-size:18px;
+}
+#butt{
+	width:250px;
+	padding:10px;
+	border-radius:5px;
+	outline:0px;
+	background-color:#0c6996;
+	border:2px solid #01010c;
+	color:aliceblue;
+	font-size:18px;
+}
